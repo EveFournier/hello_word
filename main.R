@@ -1,6 +1,6 @@
 
 #Hello Word Project
 
-print("Hello, Universe !")
+print("Hello word")
 print("Goodnight moon")
 
