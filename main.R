@@ -1,3 +1,3 @@
 
 #Hello Word Project
-print("Hello Word")
+print("Hello, Word !")
